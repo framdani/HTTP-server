@@ -9,6 +9,6 @@ This is a simple HTTP server in c++98 that takes a configuration file as argumen
 ## Authors
 - [iidzim](https://github.com/oumeimatt), worked on the netwroking part.
 - [framdani](https://github.com/framdani), parsing the configuration file and request. 
-- [Oumeimatt](https://github.com/mohamedamine456) was responsible about the Response and CGI.
+- [Oumeimatt](https://github.com/mohamedamine456) was responsible for the response and CGI.
 
 
